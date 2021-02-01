@@ -7,3 +7,4 @@ def add():
     except:
         print('noko stemme dårle')
         add()
+
